@@ -1,0 +1,199 @@
+/*------------------------------------------------------------------
+    ADD YOUR OWN THEME STYLING HERE 
+-------------------------------------------------------------------*/
+.services li .ser-inn i {
+    right: 0px;
+	/*top:40px;*/
+	font-size:32px !important
+}
+/*.services li .ser-inn{padding:45px 17px; height:350px;padding:30px 10px;} */
+.call_back {
+    float:left;
+    padding: 11px;
+	margin-top:20px;
+    width: 200px;
+}
+.instant_cost{
+    float:left;
+    padding: 11px;
+    margin-right:7px;
+    width:150px;
+	margin-bottom:5px
+}
+.get_cost{float: left;
+    padding: 15px;}
+
+.footer_project {
+    background: #343234;
+    color: #fff;
+    padding: 15px;
+    line-height: 18px;
+    border: 1px solid #242c42;
+}
+
+.portfolio-item .portfolio-image {
+    border: 1px solid #ddd;
+}
+
+.nav-tabs.tabs.style-3 {
+    
+    padding:0px;
+}
+
+.nav-tabs.tabs.style-3 .nav {
+        float: left;
+		margin-bottom:0px !important;
+		padding-right:0px;
+    }
+ .nav-tabs.tabs.style-3 .nav li {
+            float: none !important;
+        }
+
+ .nav-tabs.tabs.style-3 .nav li a {
+                padding: 29px;
+                background: #242c42 !important;
+                color:#fff;
+            }
+
+.tab-content {
+    float: left !important;
+    border:2px solid #ddd;
+}
+.tabs li{
+    display:inline !important;}
+.nav-tabs.tabs.style-3 .tab-content p{
+    padding:2px !important;}
+.nav-tabs.tabs.style-3 .nav li.active a{
+    background-color:#77be33 !important;
+    border-bottom:2px solid #77be33 !important;
+}
+.partnersimg{width:175px;height:60px;}
+#footer .footer-bottom  p{color:#908E8E;
+}
+
+@media (max-width: 1530px)
+@media (max-width: 767px){
+.best-sol .icon-style li {width:100% !important;}
+}
+
+.list-style-featured .media-body
+{
+	vertical-align:middle !important;
+}
+#ShowCost,#AMC,#SoftwareCost{color:#fff;}
+#ShowCost{padding-top:20px;float:left;width:500px;text-align:center;}
+.nav-tabs.tabs.style-3 .boximg{
+	padding:5px;
+}
+.nav-tabs.tabs.style-3 .boxtext{
+	float:left;
+	text-align:left
+}
+
+.txtcolor{color:#77be33;}
+#footer a:hover{color:#ffffff !important;}
+
+.facebook
+{
+background-color:#3B5998;
+border:none !important;
+color:#fff !important
+}
+
+.twitter
+{
+background-color:#00aced;
+border:none !important;
+color:#fff !important
+}
+
+.googleplus
+{
+background-color:#d34836;
+border:none !important;
+color:#fff !important
+}
+
+.linked
+{
+	background-color:#007bb5;
+border:none !important;
+color:#fff !important
+}
+
+.up-tabs li{
+	width:auto;
+	text-align:center !important
+}
+.up-tabs li a{
+	font-size:19px;
+	padding:40px 0;
+	margin-right:50px 
+}
+#tab1 .tab-content
+{
+	border:none !important
+}
+.main-menu .navbar-nav > li > ul > li{clear:both;padding:0px}
+
+.ownmenu ul.dropdown{width:660px !important}
+
+.ownmenu ul.dropdown i{color:#e9e6e6;font-size:13px;font-weight:200}
+
+.ownmenu ul.dropdown li {padding:10px;text-align:left;border:none;padding-right:5px}
+.ownmenu ul.dropdown li  a{
+	border-bottom:1px solid #9DC676 !important;padding-bottom:10px !important}
+.small {
+    letter-spacing: 0.5px;
+    color: #444;
+    font-size: 13px;
+}
+.small:hover{color:#000 !important}
+
+.ownmenu> li:hover > a,
+.ownmenu > li.current > a,
+.ownmenu > li > ul > li:hover > a{
+	color:#ffffff;
+	opacity:1;
+}
+.social-links ul{border-bottom:none}
+
+.tp-banner-container{background-image:url(../images/sliders/indexslide.jpg);background-size: cover; background-position: 50% 0%; background-repeat: no-repeat;}
+.tparrows.preview4{visibility:hidden;}
+.btn.btn-blank:after,.btn.btn-blank:visited{color:#fff;}
+
+
+/* Inline css to custom style */
+.small-tagline{z-index: 5; font-size:48px; color:#fff; text-shadow:0 3px 3px rgba(0,0,0,0.4); font-weight:200;}
+.large-tagline{z-index: 5; font-size:62px; color:#fff; text-shadow:0 3px 3px rgba(0,0,0,0.4); font-weight:900;}
+.vsmall-tagline{z-index: 6; font-size:16px; color:#fff; line-height:26px;}
+.white-btn{z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;}
+.gray-btn{z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;}
+.sloutiontitle{font-size:22px;}
+.banner-tagline{z-index: 5; font-size:68px; font-weight:200; color:#fff; }
+.banner-stagline{z-index: 5; font-size:48px; color:#77be33; font-weight:200;margin-top:40px}
+.aboutbanner{background:url(../images/sliders/aboutus.jpg) no-repeat;}
+.clientbanner{background:url(../images/sliders/client.jpg) no-repeat;}
+.careerbanner{background:url(../images/sliders/career.jpg) no-repeat;}
+.blogbanner{background:url(../images/sliders/blog.jpg) no-repeat; background-position: 50% 0%; }
+.contactbanner{background:url(../images/sliders/contactus.jpg) no-repeat;}
+.salesbanner{background:url(../images/sliders/salesmanagement.jpg) no-repeat; background-position: 50% 0%; }
+.leadbanner{background:url(../images/sliders/leadmanagement.jpg) no-repeat; background-position: 50% 0%; }
+.bulksmsbanner{background:url(../images/sliders/bulksms.jpg); background-repeat: no-repeat; background-position: 50% 0%; }
+.imsbanner{background:url(../images/sliders/DigitalInstituteAbhiyan.jpg) no-repeat; background-position: 50% 0%;}
+.scbanner{background:url(../images/sliders/schoolmanagement.jpg) no-repeat; background-position: 50% 0%;}
+.tuitionbanner{background:url(../images/sliders/tuitionmanagement.jpg) no-repeat; background-position: 50% 0%; }
+.homedevider1{background:url(../images/bg/parallax-3-home-main.jpg) fixed no-repeat;}
+.homedevider2{background:url(../images/bg/bg-parallax-4.jpg) center center no-repeat;}
+.homedevider3{background: url(../images/fact/bg-parallax-1.jpg) fixed no-repeat;}
+.homedevider4{background:url(../images/bg/bg-parallax-2.jpg) !important;}
+.homedevider5{background: url(../images/bg/clientcounter.jpg);background-position:47% -75.64px;}
+.homedevider6{background:url(../images/bg/Home-2-Paralax-1.jpg) fixed no-repeat;}
+.scdevider1{background:url(../images/bg/bg-parallax-2.jpg) fixed no-repeat;}
+.salesdevider1{background:url(../images/bg/bg_parallax_road.jpg) no-repeat;}
+.callusbanner{background:url(../images/bg/callus.jpg) fixed no-repeat;}
+@media(max-width:1280px){
+	.sloutiontitle{font-size:18px;}
+	}
+/*End inline to custom */
+

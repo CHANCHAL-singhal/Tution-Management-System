@@ -1,0 +1,31 @@
+.a
+{
+	text-align:center;
+	color:black;
+	font-weight:bold;	
+	background:white;
+	
+}
+table 
+{
+ width:658px;
+ text-align:center;
+ align:center;
+ font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+tr
+{
+height:30px;
+}
+
+  tr:nth-child(even){background-color: #f2f2f2;}
+  tr:hover {background-color: #ddd;}
+th
+{
+color:white;
+background:#d8592c;
+ text-transform: capitalize;
+    letter-spacing: 1px;
+}
+

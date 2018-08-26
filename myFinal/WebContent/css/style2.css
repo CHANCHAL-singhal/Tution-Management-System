@@ -1,0 +1,99 @@
+
+.footer-w3-1 {
+    background: #212121;
+    padding: 4em 0 ;
+}
+.footer-grid14 {
+    float: left;
+    width: 31.45%;
+    margin: 0 0.3em .3em 0em;
+}
+.footer-grid-1 h4 {
+    font-size: 2em;
+    color: #fff;
+    margin-bottom: 1em;
+}
+.footer-grid-1 ul li {
+    list-style: none;
+    color: #BBB9B9;
+    line-height: 2em;
+    font-size: 1em;
+}
+.footer-grid-1 ul li i {
+    color: #BBB9B9;
+    line-height: 2em;
+    font-size: 1em;
+	    margin-right: 1em;
+}
+.footer-grid-1 ul li a {
+    color: #999;
+    text-decoration: none;
+}
+.footer-grid-1 p {
+    font-size: 1em;
+    color: #BBB9B9;
+}
+.footer-grid-1 p span {
+    display: block;
+    margin: 1em 0 0;
+}
+.copy-section-1 {
+    padding: 2em 0;
+    background: #1db1fa;
+    text-align: center;
+}
+.copy-section-1 p {
+    font-size: 0.9em;
+    color: #eee;
+    font-weight: 400;
+}
+.copy-section-1 a {
+    font-size: 1em;
+    color: #eee;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.social-icons-1 {
+	margin-bottom: 1em;
+}
+.social-icons-1 a i {
+    width: 32px;
+    height: 32px;
+    background:#F58703  url(../images/img-sprite.png) no-repeat 0px 0px;
+    display: inline-block;
+	margin:0 0.2em;
+	transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+	    border-radius: 20px;
+}
+.social-icons-1 i.icon1:hover {
+  background: #49872E  url(../images/img-sprite.png) no-repeat 0px 0px;
+      transform: rotateY(360deg);
+}
+.social-icons-1 i.icon1 {
+    background-position: 0px 0px;
+}
+.social-icons-1 i.icon2 {
+    background-position: -32px 0px;
+}
+.social-icons-1 i.icon2:hover {
+  background: #49872E  url(../images/img-sprite.png) no-repeat -32px 0px;
+      transform: rotateY(360deg);
+}
+.social-icons-1 i.icon3 {
+    background-position: -64px 0px;
+}
+.social-icons-1 i.icon3:hover {
+  background: #49872E  url(../images/img-sprite.png) no-repeat -64px 0px;
+      transform: rotateY(360deg);
+}
+.social-icons-1 i.icon4 {
+    background-position: -96px 0px;
+}
+.social-icons-1 i.icon4:hover {
+  background: #49872E  url(../images/img-sprite.png) no-repeat -96px 0px;
+      transform: rotateY(360deg);
+}
